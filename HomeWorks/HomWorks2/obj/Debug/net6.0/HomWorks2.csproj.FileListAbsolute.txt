@@ -1,0 +1,15 @@
+C:\Users\kapba\Desktop\MyEveningSeminars\HomeWorks\HomWorks2\bin\Debug\net6.0\HomWorks2.exe
+C:\Users\kapba\Desktop\MyEveningSeminars\HomeWorks\HomWorks2\bin\Debug\net6.0\HomWorks2.deps.json
+C:\Users\kapba\Desktop\MyEveningSeminars\HomeWorks\HomWorks2\bin\Debug\net6.0\HomWorks2.runtimeconfig.json
+C:\Users\kapba\Desktop\MyEveningSeminars\HomeWorks\HomWorks2\bin\Debug\net6.0\HomWorks2.dll
+C:\Users\kapba\Desktop\MyEveningSeminars\HomeWorks\HomWorks2\bin\Debug\net6.0\HomWorks2.pdb
+C:\Users\kapba\Desktop\MyEveningSeminars\HomeWorks\HomWorks2\obj\Debug\net6.0\HomWorks2.csproj.AssemblyReference.cache
+C:\Users\kapba\Desktop\MyEveningSeminars\HomeWorks\HomWorks2\obj\Debug\net6.0\HomWorks2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kapba\Desktop\MyEveningSeminars\HomeWorks\HomWorks2\obj\Debug\net6.0\HomWorks2.AssemblyInfoInputs.cache
+C:\Users\kapba\Desktop\MyEveningSeminars\HomeWorks\HomWorks2\obj\Debug\net6.0\HomWorks2.AssemblyInfo.cs
+C:\Users\kapba\Desktop\MyEveningSeminars\HomeWorks\HomWorks2\obj\Debug\net6.0\HomWorks2.csproj.CoreCompileInputs.cache
+C:\Users\kapba\Desktop\MyEveningSeminars\HomeWorks\HomWorks2\obj\Debug\net6.0\HomWorks2.dll
+C:\Users\kapba\Desktop\MyEveningSeminars\HomeWorks\HomWorks2\obj\Debug\net6.0\refint\HomWorks2.dll
+C:\Users\kapba\Desktop\MyEveningSeminars\HomeWorks\HomWorks2\obj\Debug\net6.0\HomWorks2.pdb
+C:\Users\kapba\Desktop\MyEveningSeminars\HomeWorks\HomWorks2\obj\Debug\net6.0\HomWorks2.genruntimeconfig.cache
+C:\Users\kapba\Desktop\MyEveningSeminars\HomeWorks\HomWorks2\obj\Debug\net6.0\ref\HomWorks2.dll
